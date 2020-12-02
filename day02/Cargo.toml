@@ -1,0 +1,11 @@
+[package]
+name = "day02"
+version = "0.1.0"
+authors = ["Rahul AG <r@hul.ag>"]
+edition = "2018"
+
+[dependencies]
+anyhow = "1.0"
+itertools = "0.9"
+paw = "1.0"
+thiserror = "1.0"
