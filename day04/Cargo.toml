@@ -1,0 +1,10 @@
+[package]
+name = "day04"
+version = "0.1.0"
+authors = ["Rahul AG <r@hul.ag>"]
+edition = "2018"
+
+[dependencies]
+anyhow = "1.0"
+nom = "6"
+paw = "1.0"
